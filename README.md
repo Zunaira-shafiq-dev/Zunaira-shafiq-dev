@@ -10,7 +10,13 @@ Welcome to my GitHub! I’m passionate about learning and building small project
 - Python (Beginner → Intermediate, learning step by step)  
 - Data Structures (Lists, Tuples, Sets, Dictionaries)  
 - Git & GitHub Basics  
-- Problem Solving  
+- Problem Solving
+- ### 🚀 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 
 ---
 
