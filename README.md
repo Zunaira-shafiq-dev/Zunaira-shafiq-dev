@@ -31,6 +31,9 @@ Welcome to my GitHub! I’m passionate about learning and building small project
 ### 📊 GitHub Stats  
 ![Zunaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=zunaira-shafiq-dev&show_icons=true&theme=radical)
 
+### 🔥 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zunaira-shafiq-dev&theme=radical)
+
 I believe **consistency beats perfection** 🌸  
 ![Profile Views](https://komarev.com/ghpvc/?username=zunaira-shafiq-dev&color=blue)
 
