@@ -29,6 +29,8 @@ Welcome to my GitHub! I’m passionate about learning and building small project
 
 ## 🌱 Fun Fact  
 I believe **consistency beats perfection** 🌸  
+![Profile Views](https://komarev.com/ghpvc/?username=zunaira-shafiq-dev&color=blue)
+
 
 ---
 
