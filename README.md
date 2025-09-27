@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🌸 Hi, I'm Zunaira Shafiq!  
 
-<!--
-**Zunaira-shafiq-dev/Zunaira-shafiq-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Python Developer | BSCS Student | Tech Explorer**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about learning and building small projects while growing my skills in **Python, Problem Solving, and Technology**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools  
+- Python (Beginner → Intermediate, learning step by step)  
+- Data Structures (Lists, Tuples, Sets, Dictionaries)  
+- Git & GitHub Basics  
+- Problem Solving  
+
+---
+
+## 📌 Current Learning Journey  
+- 📚 Learning Python through Coursera & YouTube  
+- 🛠️ Practicing small coding projects  
+- 🎯 Goal: To become a professional developer and contribute to open-source  
+
+---
+
+## 🌱 Fun Fact  
+I believe **consistency beats perfection** 🌸  
+
+---
+
+## 📫 Connect with Me  
+- **LinkedIn:** [https://www.linkedin.com/in/zunaira-shafiq-a42424363/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5c3JttwhRZeDTPINJfUOWA%3D%3D]  
+- **Email:** [Jiyak3973@gmail.com]  
+
+---
+✨ *“Every expert was once a beginner.”*  
