@@ -1,4 +1,4 @@
-# 🌸 Hi, I'm Zunaira Shafiq!  
+# 🌸AOA, I'm Zunaira Shafiq!  
 
 🚀 **Aspiring Python Developer | BSCS Student | Tech Explorer**  
 
